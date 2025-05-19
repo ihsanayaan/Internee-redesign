@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/internee-redesign/static/css/main.f501fe70.css",
+    "main.js": "/internee-redesign/static/js/main.314bd880.js",
+    "static/media/app.jpg": "/internee-redesign/static/media/app.988f9e29a7a5a5383048.jpg",
+    "static/media/backend.jpg": "/internee-redesign/static/media/backend.c2d07b94293b2ec48c64.jpg",
+    "static/media/frontend.jpg": "/internee-redesign/static/media/frontend.f7e436bd32ef11a99fe5.jpg",
+    "static/media/other.jpg": "/internee-redesign/static/media/other.3a5e1431b44f55ef33e1.jpg",
+    "static/media/chatbot.jpg": "/internee-redesign/static/media/chatbot.d6532010b6954d5d1227.jpg",
+    "static/media/graphic.jpg": "/internee-redesign/static/media/graphic.849813924a740476be66.jpg",
+    "static/media/uiux.jpg": "/internee-redesign/static/media/uiux.70e2206fee61624a2a71.jpg",
+    "static/media/react.jpg": "/internee-redesign/static/media/react.aa1d575c5fabda43448c.jpg",
+    "index.html": "/internee-redesign/index.html",
+    "main.f501fe70.css.map": "/internee-redesign/static/css/main.f501fe70.css.map",
+    "main.314bd880.js.map": "/internee-redesign/static/js/main.314bd880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f501fe70.css",
+    "static/js/main.314bd880.js"
+  ]
+}
