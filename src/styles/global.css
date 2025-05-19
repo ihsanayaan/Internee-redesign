@@ -1,0 +1,17 @@
+body, .app {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  transition: all 0.3s ease;
+}
+
+.app.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+.app.dark-mode {
+  background-color: #111;
+  color: white;
+}

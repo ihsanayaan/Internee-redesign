@@ -1,0 +1,7 @@
+.main-content {
+  padding: 20px;
+  margin-left: 250px; /* if sidebar is fixed */
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+}
